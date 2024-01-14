@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tusharpatil0622@gmail.com**
 
-- 📄 Know about my experiences [https://tusharportfolio1.netlify.app/resume/TusharResume@23.pdf](https://tusharportfolio1.netlify.app/resume/TusharResume@23.pdf)
+- 📄 Know about my experiences [https://tusharportfolio1.netlify.app/resume/TusharResume@23.pdf](https://tusharportfolio1.netlify.app/resume/TusharResume@24.pdf)
 
 - ⚡ Fun fact **Why do programmers prefer dark mode? Less light, fewer bugs!**
 
