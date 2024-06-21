@@ -9,7 +9,7 @@
   <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </div>
 
-- 🔭 I’m currently working on **ERP SOFTWARE**
+- 🔭 I’m currently working on a **Web Based ERP System Project**
 
 - 👨‍💻 All of my projects are available at [Tushar's Portfolio](https://tusharportfolio1.netlify.app/)
 
